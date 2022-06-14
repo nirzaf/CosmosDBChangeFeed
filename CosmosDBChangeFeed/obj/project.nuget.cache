@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7C7CqPklaO3ip3uG4wOprNTGpT1XrAx4pIesILBe0q1vh3mcM0hux4zsHwkRnSNCNLx/QFx5ohgB9grQhYTuJA==",
+  "dgSpecHash": "uTmALgI1cv/feoL+MMfygFEllgWOycBdweEh+Ifbkg8N+0HMiZ4T1STGbgBZMLDwEfyNVoldJ2wXJSu7tOtV6A==",
   "success": true,
   "projectFilePath": "E:\\Repos\\Articles-master\\CosmosDBChangeFeed\\CosmosDBChangeFeed\\CosmosDBChangeFeed.csproj",
   "expectedPackageFiles": [
